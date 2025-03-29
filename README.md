@@ -14,7 +14,7 @@ go run main.go
 
 ### 2. Start playing the game
 
-- If not value entered then 5 is the default 
+- Default **WORDLE** words value is **5**, if the value is not entered
 
 ```zsh
 go run main.go
